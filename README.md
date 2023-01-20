@@ -1,3 +1,3 @@
 
 ![logo](figures/logo.png)
-## Quantitative and Computational Social Science Research Group
+## Quantitative and computational social science research group
