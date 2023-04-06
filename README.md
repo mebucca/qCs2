@@ -1,9 +1,10 @@
 
 ![logo](figures/logo.png)
 
-The Quantitative and Computational Social Science Research Group ($\text{qCs}^2$) focuses on developing and applying quantitative and computational methods to study a wide range of social phenomena, with a particular emphasis on issues related to inequality, social networks, and political behavior. While the lab is based in the Sociology Department at the UC Chile, the research here developed draws on expertise from other fields, such as economics, political science, computer science, and statistics.
+The Quantitative and Computational Social Science Research Group ($\text{qCs}^2$)  at the UC Chile focuses on developing and applying quantitative and computational methods to study a wide range of social phenomena. The lab's research has a particular emphasis on issues related to inequality, social networks, and political behavior, and draws on expertise from other fields, such as economics, political science, computer science, and statistics.
 
-In addition to its research activities, the lab is committed to training the next generation of social scientists., the $\text{qCs}^2$ lab is committed to training the next generation of social scientists. The lab provides opportunities for graduate students to gain hands-on experience with cutting-edge tools and techniques, and to collaborate on research projects with other members of the lab. The lab also offers workshops and training sessions to help students and scholars learn how to apply quantitative and computational methods in their own research.
+In addition to its research activities, the ($\text{qCs}^2$)  is dedicated to training the next generation of social scientists. Graduate students can gain hands-on experience with cutting-edge tools and techniques by collaborating on research projects with other members of the lab. The QCSSRG also offers workshops and training sessions to help students and scholars learn how to apply quantitative and computational methods in their own research.
+
 
 ## Members
 
