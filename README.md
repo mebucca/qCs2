@@ -5,7 +5,7 @@ The Quantitative and Computational Social Science Research Group ($\text{qCs}^2$
 
 In addition to conducting research, the $\text{qCs}^2$ lab is committed to training the next generation of social scientists. The lab provides opportunities for graduate students to gain hands-on experience with cutting-edge tools and techniques, and to collaborate on research projects with other members of the lab. The lab also offers workshops and training sessions to help students and scholars learn and apply quantitative and computational methods in their own research.
 
-## Team
+## Members
 
 
  - Mauricio Bucca, Director [`[email]`](mailto:mebucca@gmail.com) [`[personal site]`](https://mebucca.github.io)
