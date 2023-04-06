@@ -3,7 +3,8 @@
 
 ## Team
 
- - Mauricio Bucca, Director `[[email](mailto:mebucca@gmail.com)]`
+
+ - Mauricio Bucca, Director [`[email]`](mailto:mebucca@gmail.com) [`[personal site]`]([mailto:mebucca@gmail.com](https://mebucca.github.io))
 - Roberto Velasquez, Ph.D. Student, Lab manager
 - Roberto Cantillán, Ph.D. Student
 - Matías Gómez, Ph.D. Student
