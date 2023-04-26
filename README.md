@@ -19,4 +19,7 @@ In addition to its research activities, the $\text{qCs}^2$ is dedicated to train
 
 ## Meetings
 
+- Planilla asistencia: [`[link]`](https://docs.google.com/spreadsheets/d/1FxxoH7u407nMbYWf8ZYLOvEfkAY2U9HY0vWB1cUtKZQ/edit?usp=sharing)
+
+
 
