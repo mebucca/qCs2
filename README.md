@@ -13,7 +13,7 @@ In addition to its research activities, the $\text{qCs}^2$ is dedicated to train
 - Roberto Velasquez, Ph.D. Student, Lab manager
 - Roberto Cantillán, Ph.D. Student
 - Matías Gómez, Ph.D. Student
-- Matías Deneken, Master Student
+- Matías Deneken, Master Student [`[email]`](mailto:m.deneken@ucl.cl) [`[personal site]`](https://github.com/mdknu)
 - Sebastián Urbina, Research Assistant
 - Felipe Olivares, Teaching Assistant
 
