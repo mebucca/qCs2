@@ -13,7 +13,7 @@ In addition to its research activities, the $\text{qCs}^2$ is dedicated to train
 - Andrea Canales, Director [`[email]`](mailto:acanales@uc.cl) [`[personal site]`](https://sociologia.uc.cl/academicos-as/planta-academica/andrea-canales-hernandez/)
 - Roberto Velasquez, Ph.D. Student
 - Guillermo Beck, Ph.D. Student (Lab Manager) [`[email]`](mailto:gubeck@uc.cl) 
-- Roberto Cantillán, Ph.D. Student [`[email]`](mailto:ricantillan@uc.cl) [`[personal site]`](https://rcantillan.rbind.io/)
+- Roberto Cantillan, Ph.D. Student [`[email]`](mailto:ricantillan@uc.cl) [`[personal site]`](https://rcantillan.rbind.io/)
 - Matías Gómez, Ph.D. Student
 - Matías Deneken, Master Student [`[email]`](mailto:m.deneken@ucl.cl) [`[personal site]`](https://github.com/mdknu)
 - Sebastián Urbina, Master Student 
