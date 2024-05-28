@@ -10,8 +10,9 @@ In addition to its research activities, the $\text{qCs}^2$ is dedicated to train
 
 
 - Mauricio Bucca, Director [`[email]`](mailto:mebucca@gmail.com) [`[personal site]`](https://mebucca.github.io)
-- Roberto Velasquez, Ph.D. Student, Lab manager
-- Roberto Cantillán, Ph.D. Student
+- Roberto Velasquez, Ph.D. Student
+- Guillermo Beck, Ph.D. Student (Lab Manager) [`[email]`](mailto:gubeck@uc.cl) 
+- Roberto Cantillán, Ph.D. Student [`[email]`](mailto:ricantillan@uc.cl) [`[personal site]`](https://rcantillan.rbind.io/)
 - Matías Gómez, Ph.D. Student
 - Matías Deneken, Master Student [`[email]`](mailto:m.deneken@ucl.cl) [`[personal site]`](https://github.com/mdknu)
 - Sebastián Urbina, Master Student 
